@@ -1,4 +1,4 @@
-module github.com/qawatake/tcardgen
+module github.com/RICORA/tcardgen
 
 go 1.14
 

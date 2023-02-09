@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/qawatake/tcardgen/pkg/canvas/box"
-	"github.com/qawatake/tcardgen/pkg/canvas/fontfamily"
+	"github.com/RICORA/tcardgen/pkg/canvas/box"
+	"github.com/RICORA/tcardgen/pkg/canvas/fontfamily"
 )
 
 type DrawingConfig struct {
